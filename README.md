@@ -38,14 +38,11 @@ These features are used to build supervised machine learning models capable of c
 ## Project Workflow
 
 - Business Understanding
-- Data Exploration
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
 - Data Preparation
+- Exploratory Data Analysis (EDA)
 - Model Development
 - Model Evaluation
-- Business Recommendations
+- Business Insights
 
 ---
 
