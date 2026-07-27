@@ -54,7 +54,6 @@ These features are used to build supervised machine learning models capable of c
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost
 - Jupyter Notebook
 
 ---
