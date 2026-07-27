@@ -61,9 +61,7 @@ These features are used to build supervised machine learning models capable of c
 
 ## Models Evaluated
 
-- Logistic Regression
 - Random Forest
-- XGBoost
 
 ---
 
